@@ -1,2 +1,0 @@
-# pokemonGraphQL
-Created with CodeSandbox
